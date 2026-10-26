@@ -1,0 +1,17 @@
+{
+  "name": "docs-system",
+  "description": "Marketplace for the docs-system plugin: a uniform documentation system for any project. / Маркетплейс плагина docs-system: единая система документации для любого проекта.",
+  "owner": { "name": "el1ster", "url": "https://github.com/el1ster" },
+  "plugins": [
+    {
+      "name": "docs-system",
+      "source": "./docs-system",
+      "description": "Документация проекта как система: создание, аудит, план, перестройка, поддержка, проверка видимости правил нейросетью. / Project documentation as a system: init, audit, plan, restructure, maintain, verify.",
+      "version": "0.1.0",
+      "author": { "name": "el1ster" },
+      "homepage": "https://github.com/el1ster/docs-system",
+      "license": "MIT",
+      "keywords": ["documentation", "obsidian", "markdown", "knowledge-base", "audit"]
+    }
+  ]
+}

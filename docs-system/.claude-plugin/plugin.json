@@ -1,0 +1,10 @@
+{
+  "name": "docs-system",
+  "description": "Система документации для любого проекта: единый стандарт, шапки со статусами, связи как в Obsidian, аудит качества, план и перестройка. / Project documentation system: one standard, status headers, Obsidian-style links, quality audit, plan and restructure.",
+  "version": "0.1.0",
+  "author": { "name": "el1ster", "url": "https://github.com/el1ster" },
+  "homepage": "https://github.com/el1ster/docs-system",
+  "repository": "https://github.com/el1ster/docs-system",
+  "license": "MIT",
+  "keywords": ["documentation", "obsidian", "markdown", "knowledge-base", "audit"]
+}
